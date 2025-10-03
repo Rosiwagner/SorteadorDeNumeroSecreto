@@ -13,7 +13,7 @@
 # Time
 
 <div style="text-align: center; margin-top: 20px;">
-    <img src="URL_DA_SUA_FOTO.jpg" alt="Sua Foto" width="150" height="150" style="border-radius: 50%; border: 2px solid #333;">
+    <img src="https://github.com/Rosiwagner/SorteadorDeNumeroSecreto/blob/main/wagner2.jpeg" alt="Sua Foto" width="150" height="150" style="border-radius: 50%; border: 2px solid #333;">
     <h3>Wagner Farias</h3>
     <p>Desenvolvedor(a)</p>
     <p>
